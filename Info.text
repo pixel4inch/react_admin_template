@@ -1,11 +1,18 @@
 /********************************
            INFORAMTION
 ********************************/
-1. MUI Meterial
-2. MUI Icon
-3. MUI Data Grid
-4. React Router @6.0
-5. React-Pro-Sidebar
-7. Formik Yap
-8. Full Calender
-9. Nivo Charts
+1. MUI Meterial     : @mui/material @emotion/react @emotion/styled
+2. MUI Icon         : @mui/icons-material
+3. MUI Data Grid    : @mui/x-data-grid
+4. React Router     : react-router@6.0
+5. React-Pro-Sidebar: react-pro-sidebar
+7. Formik Yap       : formik yap
+8. Full Calender    : @fullcalendar/core
+                      @fullcalendar/daygrid
+                      @fullcalendar/timegrid
+                      @fullcalendar/list
+
+9. Nivo Charts      : @nivo/core
+                      @nivo/pie
+                      @nivo/bar
+                      @nivo/geo
